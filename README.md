@@ -1,7 +1,6 @@
 # Uffizzi Quickstart (~ 1 minute)
 
-Go from pull request to Uffizzi Preview Environment in less than one minute...
-
+Go from pull request to Uffizzi Preview Environment in less than one minute..
 ### 1. Fork this repo  
 
 Be sure to uncheck the option **Copy the `main` branch only**. This ensures that the `try-uffizzi` branch will be included in your fork.  
